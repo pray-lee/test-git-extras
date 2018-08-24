@@ -9,5 +9,6 @@
 * **git effort**  (get file's commit count and active days)
 * **git effort --above 10**  (get file more than 10 commits list)
 * **touch history.md && git changelog**   (write commit record to history.md)
+* **git info**  (get current project's info and git config info)
 
 
